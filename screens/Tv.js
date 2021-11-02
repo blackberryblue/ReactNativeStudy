@@ -37,6 +37,8 @@ const _renderItem = ({item, index}) => {
   );
 };
 
+// ㅊㅜ가용용
+
 const Tv = () => (
   <View style={styles.container}>
     <FlatList
